@@ -2,7 +2,7 @@
 
 The purpose of Learning Log is to document the steps to complete each task in the repo.
 
-As entry level developer, I have found mastering the developer environment one of the biggest barriers to entry in this field. 
+As an entry level developer, I have found mastering the developer environment one of the biggest barriers to entry in this field. 
 
 ### Getting Started
 
@@ -51,7 +51,7 @@ I tackled the api first. PHP syntax reminds me of C and folder structure of Ruby
 
 I had to double check if the output of the test is as expected using the docs, as I've never used phpunit before and while I was there I added a config to add the `-color` flag.
 
-I used error driven development and was guided by the console errors. This led to adding CORS hearder for the requests and adding an interface for the data structure to appease the typescript linter. I spent more hime than I would like to admin on CSS replicating the `ui-diagram.png`. It reinforced my appreciation for open-source UI frameworks and tools such as Figma.
+I used error driven development and was guided by the console errors. This led to adding CORS headers for the requests and adding an interface for the data structure to appease the typescript linter. I spent more time than I would like to admin on CSS replicating the `ui-diagram.png`. It reinforced my appreciation for open-source UI frameworks and tools such as Figma.
 
 #### With more time I would...
 
@@ -75,4 +75,6 @@ As the commits were still on main, I then:
 
 #### Reflection
 
-Nothing like a self imposed git mess to get your heartrate up.
+Nothing like a self imposed git mess to get your heartrate up. 
+
+Aaaaaand...it's still not right, as all the main commits are on my branch too.
