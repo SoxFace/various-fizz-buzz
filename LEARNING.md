@@ -57,3 +57,22 @@ I used error driven development and was guided by the console errors. This led t
 
 - write tests for the ui and use field validation instead of alerts
 - confirm if you would prefer the app to be dynamic by using local storage instead
+
+### Getting gitted
+
+I forked and forgot to create a branch for this submission. Once I realised I have submitted everything to main 🤦‍♀️! I hitup my favorite git [resource](https://ohshitgit.com/) and resolved the issue. Commands to stash and pop my commits onto the branch:
+
+- git reflog
+- git reset --soft acf48a7
+- git stash
+- git checkout submission/sonya
+- git stash pop
+
+As the commits were still on main, I then:
+
+- git reset --hard acf48a7
+- git push origin main --force
+
+#### Reflection
+
+Nothing like a self imposed git mess to get your heartrate up.
